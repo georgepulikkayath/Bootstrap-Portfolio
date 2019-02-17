@@ -1,0 +1,23 @@
+.just {
+    background-color:#4aaaa5;
+}
+/*.container{
+    
+    max-width:50%;
+}*/
+.col-12 {
+color: #4aaaa5;
+}
+.btn{
+   background-color: #4aaaa5;  
+}
+.card-body{
+    background-color:#4aaaa5;
+    text-align: center;
+}
+.container{
+    max-width: 95%;
+    height:550px;
+    
+}
+
